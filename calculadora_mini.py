@@ -12,7 +12,7 @@ def divir():
 
 while True:
     print(' Bem Vindo a calculadora BUSINESS TECH FUCAPE!')
-    E1 = input("\n\n1 - Somar\n2 - Subtrair\n3 - Multiplicar\n4 - Dividir\n5 - Sair")
+    E1 = input("\n\n1 - Somar\n2 - Subtrair\n3 - Multiplicar\n4 - Dividir\n5 - Sair\n\nResposta:  ")
     if E1 == '1':
         somar()
     elif E1 == '2':

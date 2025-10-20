@@ -1,9 +1,15 @@
 def somar():
     print('somado!')
+
 def subtrair():
     print('subtraido!')
+
 def multiplicar():
-    print('multiplicado!')
+    x = float(input("Me diga um número: "))
+    y = float(input("Me diga outro número: "))
+    resultado = x*y
+    print(f'Resultado = {resultado}')
+
 def divir():
     print('dividido!')
 

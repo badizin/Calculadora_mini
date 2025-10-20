@@ -1,11 +1,11 @@
 def somar():
     print('somado!')
 def subtrair():
-    print('somado!')
+    print('subtraido!')
 def multiplicar():
-    print('somado!')
+    print('multiplicado!')
 def divir():
-    print('somado!')
+    print('dividido!')
 
 
 
